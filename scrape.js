@@ -8,11 +8,12 @@ let options = {
 let params = {
     locationId: 1700272,  // Same as kijiji.locations.ONTARIO.TORONTO_GTA
     categoryId: 0,  // Same as kijiji.categories.CARS_AND_VEHICLES
-    sortByName: "dateAsc",  // Show the cheapest listings first
+    sortByName: "dateDesc",  // Show the cheapest listings first
     keywords: "ps4",
     minPrice: 100,
     maxPrice: 200,
     adType: "OFFER"
+    //adType: "WANTED"
 };
 
 // Scrape using returned promise
