@@ -9,9 +9,9 @@ let params = {
     locationId: 1700272,  // Same as kijiji.locations.ONTARIO.TORONTO_GTA
     categoryId: 174,  // Same as kijiji.categories.CARS_AND_VEHICLES - 174, PS4-792, free stuff- 17220001
     sortByName: "dateDesc",  // Show the cheapest listings first
-    keywords: "Audi A4 2013",
+    keywords: "Audi A4 2012",
     adType: "OFFER",
-    minPrice: 10,
+    minPrice: 1000,
     maxPrice: 10000
     //adType: "WANTED"
 };
