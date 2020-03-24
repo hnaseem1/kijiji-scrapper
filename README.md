@@ -10,9 +10,9 @@ Pre-requisites
 
 Dependencies
 
-node.js - evented I/O for the backend
-cheerio - jQuery-like API for the server
-node-fetch - Fetch API implementation for Node.Js
+- node.js - evented I/O for the backend
+- cheerio - jQuery-like API for the server
+- node-fetch - Fetch API implementation for Node.Js
 
 Run App
 Edit config.js to update the information for scraper
